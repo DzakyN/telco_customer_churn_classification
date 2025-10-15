@@ -1,5 +1,3 @@
-# telco_customer_churn_classification
-
 # Telco Customer Churn Classification  
 
 This project analyzes and predicts customer churn in a telecommunications dataset using exploratory data analysis (EDA) and multiple machine learning models.  
